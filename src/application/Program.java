@@ -15,7 +15,7 @@ public class Program {
 		sc.nextLine();
 		String holder = sc.nextLine();
 		System.out.print("Enter balance account: ");
-		double balance = sc.nextDouble();
+		double balance = sc.nextDouble(); 
 		
 		
 		System.out.println(number +", " + holder + ", " + balance);
